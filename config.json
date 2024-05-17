@@ -1,0 +1,5 @@
+{
+    "FOV_SIZE": 100,
+    "MOVE_THRESHOLD": 15,
+    "MOVE_SPEED": 0.6
+}
